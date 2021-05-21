@@ -1,0 +1,23 @@
+{
+  "name": "phaser-demo",
+  "version": "1.0.0",
+  "description": "phaser 库学习",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liurongqing/phaser-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liurongqing/phaser-demo/issues"
+  },
+  "homepage": "https://github.com/liurongqing/phaser-demo#readme",
+  "devDependencies": {
+    "esbuild": "^0.12.1"
+  }
+}
